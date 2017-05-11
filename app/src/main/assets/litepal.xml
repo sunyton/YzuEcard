@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+    <litepal>
+    <dbname value="db">
+
+    </dbname>
+    <version value="1">
+
+    </version>
+
+
+    <list>
+
+        <mapping class="com.example.suny.ecard.database.WeekData">
+
+        </mapping>
+    </list>
+
+</litepal>
