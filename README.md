@@ -2,7 +2,7 @@
 查看扬州大学校园卡消费记录的app
 <br>
 <img src="https://github.com/sunyton/YzuEcard/blob/master/screenshot%20(1).jpg" width=400 height=700>
-<img src="https://github.com/sunyton/YzuEcard/blob/master/screenshot%20(2).jpg" width=400 height=700>
+<img src="https://github.com/sunyton/YzuEcard/blob/master/screenshot%20(2).jpg" width=400 height=700><br>
 用的第三方框架有点多，下次的更新准备去除框架，用原生api代替，这次的版本主要是试试okhhtp，litepal两个框架，练习刚学的recyclerview,网络请求相关的知识<br>
 ##用到的方法：<br>
 1.okhttp模拟登陆<br>
